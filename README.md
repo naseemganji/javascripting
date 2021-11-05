@@ -1,2 +1,0 @@
-# javascripting
-Java Scripting
